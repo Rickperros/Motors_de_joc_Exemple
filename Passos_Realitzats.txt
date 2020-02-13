@@ -8,3 +8,9 @@ Commit 1:
 Commit 2:
 1) S'afegeixen alguns packages
 3) Es neteja el contingut que no es farà servir
+
+Collactable items 1
+---------------------
+1) Es crea un landscape i es texturitza y decora 
+2) Creem el collactable bp
+3) Creem el hud per mostrar el collactable bp
