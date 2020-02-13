@@ -1,0 +1,10 @@
+Inicialització del projecte
+----------------------------
+Commit 1:
+1) Es crea un projecte d'UE4 partint del template de 3ª persona.
+2) Es mou l'arxiu .gitignore dintre de la carpeta arrel del projecte d'unreal.
+3) Es neteja el contingut que no es farà servir
+
+Commit 2:
+1) S'afegeixen alguns packages
+3) Es neteja el contingut que no es farà servir
