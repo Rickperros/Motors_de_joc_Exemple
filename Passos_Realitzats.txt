@@ -13,4 +13,8 @@ Collactable items 1
 ---------------------
 1) Es crea un landscape i es texturitza y decora 
 2) Creem el collactable bp
-3) Creem el hud per mostrar el collactable bp
+3) Creem la interacció en el player
+4) Creem el hud per mostrar el collactable bp
+
+*En aquest punt la premisa es "Make it work", es a dir, ens interesa que funcioni independentment de la qualitat del codi.
+
