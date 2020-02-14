@@ -23,3 +23,9 @@ Collactable items 2
 1) Es concreten els items Coin i Key
 2) S'externalitza la gestió dels items a un item manager
 3) S'externalitza la gestió del hud a la classe hud 
+
+Code clean up
+---------------------
+1) Creem una interface que implementara la classe abstracta collactable bp per desvincular futurs colleccionables
+	que no heretin d'aquest bp del player.
+2) Refactor del codi i estructura en funcions.
