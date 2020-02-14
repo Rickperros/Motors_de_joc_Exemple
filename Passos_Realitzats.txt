@@ -18,3 +18,8 @@ Collactable items 1
 
 *En aquest punt la premisa es "Make it work", es a dir, ens interesa que funcioni independentment de la qualitat del codi.
 
+Collactable items 2
+---------------------
+1) Es concreten els items Coin i Key
+2) S'externalitza la gestió dels items a un item manager
+3) S'externalitza la gestió del hud a la classe hud 
